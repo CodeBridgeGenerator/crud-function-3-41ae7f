@@ -1,0 +1,11 @@
+[
+    {
+        "field_id": "id",
+        "Descriptive": "string",
+        "structural": "string",
+        "administrative": "string",
+        "Reference": "string",
+        "statistical": "string",
+        "Legal": "string"
+    }
+]

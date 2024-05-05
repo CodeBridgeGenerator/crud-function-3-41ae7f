@@ -1,0 +1,13 @@
+[
+    {
+        "user_id": "id",
+        "position_id": "id",
+        "role_id": "id",
+        "department_id": "id",
+        "start": "date",
+        "end": "date"
+    },
+    {
+        "position_id": ""
+    }
+]

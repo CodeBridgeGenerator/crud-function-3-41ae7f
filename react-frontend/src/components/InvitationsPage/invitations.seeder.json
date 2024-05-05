@@ -1,0 +1,8 @@
+[
+    {
+        "email": "email",
+        "accepted": true,
+        "sent_status": "trun",
+        "content": "string"
+    }
+]

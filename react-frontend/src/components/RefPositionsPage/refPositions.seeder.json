@@ -1,0 +1,142 @@
+[
+    {
+        "role_id": "staff",
+        "position": "Chief executive officer",
+        "abbr": "CEO",
+        "reportingToid(position_hierarchy_id)": "id",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief operating officer",
+        "abbr": "COO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief financial officer",
+        "abbr": "CFO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief information officer",
+        "abbr": "CIO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief technology officer",
+        "abbr": "CTO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief compliance officer",
+        "abbr": "CCO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief knowledge officer",
+        "abbr": "CKO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief data officer",
+        "abbr": "CDO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief marketing officer",
+        "abbr": "CMO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief security officer",
+        "abbr": "CSO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief sustainability officer ",
+        "abbr": "CSO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief administration officer ",
+        "abbr": "CAO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief product officer",
+        "abbr": "CPO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    },
+    {
+        "role_id": "staff",
+        "position": "Chief human resources officer",
+        "abbr": "CHRO",
+        "reportingToid(position_hierarchy_id)": "Chief executive officer",
+        "department_id": "id",
+        "direct": true,
+        "isHead": true,
+        "reportingtoidPositionHierarchyId": "Chief executive officer"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "user_id": "id",
+        "mobileno": "number",
+        "country": "number",
+        "operator": "string",
+        "mobile": "number"
+    }
+]

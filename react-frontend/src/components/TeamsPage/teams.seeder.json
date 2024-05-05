@@ -1,0 +1,8 @@
+[
+    {
+        "name": "string",
+        "description": "string",
+        "user_ids": "[id]",
+        "is_default": true
+    }
+]

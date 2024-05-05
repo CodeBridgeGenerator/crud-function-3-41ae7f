@@ -1,0 +1,11 @@
+[
+    {
+        "from_User_id": "id",
+        "to": "[id]",
+        "cc": "[id]",
+        "bcc": "[id]",
+        "content": "string",
+        "subject": "string",
+        "attachment_count": "[string]"
+    }
+]

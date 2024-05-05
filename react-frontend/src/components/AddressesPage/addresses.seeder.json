@@ -1,0 +1,12 @@
+[
+    {
+        "morphid": "id",
+        "morphname": "string",
+        "street": "string",
+        "street2": "string",
+        "city": "string",
+        "postCode": "string",
+        "state": "string",
+        "country": "string"
+    }
+]

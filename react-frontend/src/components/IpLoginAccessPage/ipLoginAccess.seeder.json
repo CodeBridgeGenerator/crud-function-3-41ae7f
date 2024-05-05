@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "id",
+        "role_id": "id",
+        "start_ip": "string",
+        "end_ip": "string",
+        "allowed_start_time": "time",
+        "allowed_end_time": "time",
+        "blocked_start_time": "time",
+        "blocked_end_time": "time"
+    }
+]

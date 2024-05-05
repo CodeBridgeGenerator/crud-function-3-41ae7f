@@ -1,0 +1,14 @@
+[
+    {
+        "role_id": "id",
+        "user_id": "id",
+        "service_id": "id",
+        "field_id": "id",
+        "read": true,
+        "create": true,
+        "patchany": true,
+        "patchown": true,
+        "deleteany": true,
+        "deleteown": true
+    }
+]

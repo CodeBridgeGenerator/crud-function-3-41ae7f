@@ -1,0 +1,8 @@
+[
+    {
+        "user_id": "id",
+        "compan_id": "id",
+        "effective_date": "date",
+        "end_Date": "date"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "user_id": "id",
+        "image_Url": "string",
+        "profile_status_id": "id",
+        "uu_id": "string",
+        "oauth_provider_id": "string",
+        "oauth_provider_name": "string",
+        "login_Type_id": "is",
+        "date_of_Birth": "date ",
+        "gender": "string",
+        "account_status": true,
+        "current_Mobile_number_id": "id",
+        "current_Role_id": "id",
+        "current_Company_id": "string",
+        "current_Branch_id": "id",
+        "current_Department_id": "string",
+        "is_Current_Department_Head": false,
+        "current_sub_Department_id": "id",
+        "is_Current_sub_Department_Head": false,
+        "is_2Fa_enabled": false,
+        "is_password_History_enabled": false,
+        "is_Login_ip_access_enabled": false
+    }
+]

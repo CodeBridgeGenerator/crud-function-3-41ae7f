@@ -1,0 +1,28 @@
+[
+    {
+        "roles": "staff",
+        "description": "people working in the client company",
+        "is_default": true,
+        "isDefault": true
+    },
+    {
+        "roles": "non-staff",
+        "description": "external users of the system",
+        "is_default": false
+    },
+    {
+        "roles": "staff-admin",
+        "description": "administrator for the client staff",
+        "is_default": false
+    },
+    {
+        "roles": "developer",
+        "description": "single role for all developer positions",
+        "is_default": false
+    },
+    {
+        "roles": "super-admin",
+        "description": "complete adminstrator",
+        "is_default": false
+    }
+]

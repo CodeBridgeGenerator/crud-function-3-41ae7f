@@ -1,0 +1,8 @@
+[
+    {
+        "type": "mobile/land/voip",
+        "number": "number",
+        "country": "string",
+        "phone ": "string"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "userid": "id",
+        "path": "string",
+        "key": "string",
+        "value": "string"
+    }
+]

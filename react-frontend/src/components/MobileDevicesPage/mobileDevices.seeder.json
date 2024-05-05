@@ -1,0 +1,9 @@
+[
+    {
+        "mobilenumberid": "id",
+        "deviceid": "id",
+        "os": "string",
+        "version": "string",
+        "sdk": "string"
+    }
+]

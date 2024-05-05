@@ -1,0 +1,26 @@
+[
+    {
+        "status": "active"
+    },
+    {
+        "status": "inactive"
+    },
+    {
+        "status": "suspended"
+    },
+    {
+        "status": "blocked"
+    },
+    {
+        "status": "reset_password"
+    },
+    {
+        "status": "expired"
+    },
+    {
+        "status": "unsubcribed"
+    },
+    {
+        "status": "subscribed"
+    }
+]

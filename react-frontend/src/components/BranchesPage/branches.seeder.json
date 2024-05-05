@@ -1,0 +1,7 @@
+[
+    {
+        "company_id": "id",
+        "branch": "string",
+        "is_default": true
+    }
+]

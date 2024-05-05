@@ -1,0 +1,14 @@
+[
+    {
+        "company_name": "string",
+        "company_no": "string",
+        "brand_name": "string",
+        "website": "string",
+        "address_id": "string",
+        "logoUrl": "string",
+        "company_email": "[string]",
+        "phone_Type_id": "[id]",
+        "fax_Type_id": "[id]",
+        "is_default": true
+    }
+]

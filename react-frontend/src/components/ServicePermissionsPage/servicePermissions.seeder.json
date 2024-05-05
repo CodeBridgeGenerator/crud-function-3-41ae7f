@@ -1,0 +1,13 @@
+[
+    {
+        "role_id": "id",
+        "user_id": "id",
+        "service_id": "id",
+        "read": true,
+        "create": true,
+        "updateany": true,
+        "updateown": true,
+        "deleteany": true,
+        "deleteown": true
+    }
+]

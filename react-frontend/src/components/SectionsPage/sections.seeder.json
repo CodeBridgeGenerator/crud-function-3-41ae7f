@@ -1,0 +1,10 @@
+[
+    {
+        "company_id": "id",
+        "branch_id": "id",
+        "department_id": "id",
+        "section": "string",
+        "is_Head": true,
+        "is_default": true
+    }
+]
